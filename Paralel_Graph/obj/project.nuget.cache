@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4BRsK+qu3rw+37OKQ4TDlyNBS5hAP8RvnTQbt/977RGZrc42RefUrSf/nl3PSc9F17ndUnwqfBBgo5WcqHZRhA==",
+  "success": true,
+  "projectFilePath": "C:\\!Dizox\\Лаби\\ЧНУ\\2024 рiк 2 семестр 3 курсу\\Розподiленi системи\\Lab 2\\Paralel_Graph\\Paralel_Graph\\Paralel_Graph.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dizox\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\Dizox\\.nuget\\packages\\oxyplot.windowsforms\\2.1.2\\oxyplot.windowsforms.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
