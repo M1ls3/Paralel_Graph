@@ -11,3 +11,16 @@ C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподi
 C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 2\Paralel_Graph\Paralel_Graph\bin\Debug\OxyPlot.dll
 C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 2\Paralel_Graph\Paralel_Graph\bin\Debug\OxyPlot.WindowsForms.dll
 C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 2\Paralel_Graph\Paralel_Graph\obj\Debug\Paralel_.E4407704.Up2Date
+C:\!Dizox\Git\Repositories\Paralel_Graph\Paralel_Graph\bin\Debug\Paralel_Graph.exe.config
+C:\!Dizox\Git\Repositories\Paralel_Graph\Paralel_Graph\bin\Debug\Paralel_Graph.exe
+C:\!Dizox\Git\Repositories\Paralel_Graph\Paralel_Graph\bin\Debug\Paralel_Graph.pdb
+C:\!Dizox\Git\Repositories\Paralel_Graph\Paralel_Graph\bin\Debug\OxyPlot.dll
+C:\!Dizox\Git\Repositories\Paralel_Graph\Paralel_Graph\bin\Debug\OxyPlot.WindowsForms.dll
+C:\!Dizox\Git\Repositories\Paralel_Graph\Paralel_Graph\obj\Debug\Paralel_Graph.csproj.AssemblyReference.cache
+C:\!Dizox\Git\Repositories\Paralel_Graph\Paralel_Graph\obj\Debug\Paralel_Graph.Form1.resources
+C:\!Dizox\Git\Repositories\Paralel_Graph\Paralel_Graph\obj\Debug\Paralel_Graph.Properties.Resources.resources
+C:\!Dizox\Git\Repositories\Paralel_Graph\Paralel_Graph\obj\Debug\Paralel_Graph.csproj.GenerateResource.cache
+C:\!Dizox\Git\Repositories\Paralel_Graph\Paralel_Graph\obj\Debug\Paralel_Graph.csproj.CoreCompileInputs.cache
+C:\!Dizox\Git\Repositories\Paralel_Graph\Paralel_Graph\obj\Debug\Paralel_.E4407704.Up2Date
+C:\!Dizox\Git\Repositories\Paralel_Graph\Paralel_Graph\obj\Debug\Paralel_Graph.exe
+C:\!Dizox\Git\Repositories\Paralel_Graph\Paralel_Graph\obj\Debug\Paralel_Graph.pdb

@@ -44,12 +44,9 @@ namespace Paralel_Graph
 
         private void button_e_Click(object sender, EventArgs e)
         {
-            double newValue;
-            //bool result = double.TryParse(textBox_e.Text, out newValue);
             try
             {
                 e1 = Double.Parse(textBox_e.Text);
-                //e1 = newValue;
             }
             catch
             {
@@ -59,12 +56,9 @@ namespace Paralel_Graph
 
         private void button_x1_Click(object sender, EventArgs e)
         {
-            double newValue;
-            //bool result = double.TryParse(textBox_x1.Text, out newValue);
             try
             {
                 x1 = Double.Parse(textBox_x1.Text);
-                //x1 = newValue;
             }
             catch
             {
@@ -74,12 +68,9 @@ namespace Paralel_Graph
 
         private void button_x2_Click(object sender, EventArgs e)
         {
-            double newValue;
-            //bool result = double.TryParse(textBox_x2.Text, out newValue);
             try
             {
                 x2 = Double.Parse(textBox_x2.Text);
-                //x2 = newValue;
             }
             catch
             {

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u0420\u043E\u0437\u043F\u043E\u0434i\u043B\u0435\u043Di \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\Lab 2\\Paralel_Graph\\",
+  "WorkspaceRootPath": "C:\\!Dizox\\Git\\Repositories\\Paralel_Graph\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFA8CBA1-8E1D-4714-BD2C-DF3153F5F369}|Paralel_Graph\\Paralel_Graph.csproj|C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u0420\u043E\u0437\u043F\u043E\u0434i\u043B\u0435\u043Di \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\Lab 2\\Paralel_Graph\\paralel_graph\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFA8CBA1-8E1D-4714-BD2C-DF3153F5F369}|Paralel_Graph\\Paralel_Graph.csproj|c:\\!dizox\\git\\repositories\\paralel_graph\\paralel_graph\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFA8CBA1-8E1D-4714-BD2C-DF3153F5F369}|Paralel_Graph\\Paralel_Graph.csproj|solutionrelative:paralel_graph\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFA8CBA1-8E1D-4714-BD2C-DF3153F5F369}|Paralel_Graph\\Paralel_Graph.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u0440\u043E\u0437\u043F\u043E\u0434i\u043B\u0435\u043Di \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\lab 2\\paralel_graph\\paralel_graph\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EFA8CBA1-8E1D-4714-BD2C-DF3153F5F369}|Paralel_Graph\\Paralel_Graph.csproj|C:\\!Dizox\\Git\\Repositories\\Paralel_Graph\\paralel_graph\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EFA8CBA1-8E1D-4714-BD2C-DF3153F5F369}|Paralel_Graph\\Paralel_Graph.csproj|solutionrelative:paralel_graph\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u0420\u043E\u0437\u043F\u043E\u0434i\u043B\u0435\u043Di \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\Lab 2\\Paralel_Graph\\Paralel_Graph\\Form1.cs",
+              "DocumentMoniker": "C:\\!Dizox\\Git\\Repositories\\Paralel_Graph\\Paralel_Graph\\Form1.cs",
               "RelativeDocumentMoniker": "Paralel_Graph\\Form1.cs",
-              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u0420\u043E\u0437\u043F\u043E\u0434i\u043B\u0435\u043Di \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\Lab 2\\Paralel_Graph\\Paralel_Graph\\Form1.cs*",
-              "RelativeToolTip": "Paralel_Graph\\Form1.cs*",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAQwEEAAAAsAAAA",
+              "ToolTip": "C:\\!Dizox\\Git\\Repositories\\Paralel_Graph\\Paralel_Graph\\Form1.cs",
+              "RelativeToolTip": "Paralel_Graph\\Form1.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAQwEIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T22:28:47.287Z",
               "EditorCaption": ""
@@ -41,10 +41,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u0420\u043E\u0437\u043F\u043E\u0434i\u043B\u0435\u043Di \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\Lab 2\\Paralel_Graph\\Paralel_Graph\\Form1.cs",
+              "DocumentMoniker": "C:\\!Dizox\\Git\\Repositories\\Paralel_Graph\\Paralel_Graph\\Form1.cs",
               "RelativeDocumentMoniker": "Paralel_Graph\\Form1.cs",
-              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440i\u043A 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u043A\u0443\u0440\u0441\u0443\\\u0420\u043E\u0437\u043F\u043E\u0434i\u043B\u0435\u043Di \u0441\u0438\u0441\u0442\u0435\u043C\u0438\\Lab 2\\Paralel_Graph\\Paralel_Graph\\Form1.cs [Design]*",
-              "RelativeToolTip": "Paralel_Graph\\Form1.cs [Design]*",
+              "ToolTip": "C:\\!Dizox\\Git\\Repositories\\Paralel_Graph\\Paralel_Graph\\Form1.cs [Design]",
+              "RelativeToolTip": "Paralel_Graph\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T22:27:45.052Z",
               "EditorCaption": " [Design]"
